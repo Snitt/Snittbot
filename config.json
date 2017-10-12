@@ -1,0 +1,15 @@
+{
+  "prefix": ">",
+  "token": "",
+  "mainChannel":"",
+  "logChannel":"",
+  "reasonChannel":"",
+  "defaultMute":"",
+  "defaultPunish":"",
+  "ownerID":"",
+  "guildID":"",
+  "configType":"",
+  "botDelete":120000
+  "pasteKey":"",
+  "twitchKey":""
+}
